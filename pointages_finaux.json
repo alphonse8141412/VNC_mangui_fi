@@ -1,0 +1,44 @@
+[
+  {
+    "agent": "Alphonse Marie Mbengue",
+    "score": "79.1%",
+    "heure": "10:10:10",
+    "date": "2025-11-18",
+    "seuil": 0.75
+  },
+  {
+    "agent": "Alphonse Marie Mbengue",
+    "score": "75.7%",
+    "heure": "10:10:20",
+    "date": "2025-11-18",
+    "seuil": 0.75
+  },
+  {
+    "agent": "Alphonse Marie Mbengue",
+    "score": "82.5%",
+    "heure": "10:10:32",
+    "date": "2025-11-18",
+    "seuil": 0.75
+  },
+  {
+    "agent": "Alphonse Marie Mbengue",
+    "score": "76.1%",
+    "heure": "10:10:44",
+    "date": "2025-11-18",
+    "seuil": 0.75
+  },
+  {
+    "agent": "Alphonse Marie Mbengue",
+    "score": "81.1%",
+    "heure": "10:10:54",
+    "date": "2025-11-18",
+    "seuil": 0.75
+  },
+  {
+    "agent": "Alphonse Marie Mbengue",
+    "score": "79.0%",
+    "heure": "10:11:05",
+    "date": "2025-11-18",
+    "seuil": 0.75
+  }
+]

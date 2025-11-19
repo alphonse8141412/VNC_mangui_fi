@@ -1,0 +1,506 @@
+[
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "13:21:44",
+    "date": "2025-11-18",
+    "confidence": "0.60",
+    "timestamp": 1763468504.2863293
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "13:22:14",
+    "date": "2025-11-18",
+    "confidence": "0.63",
+    "timestamp": 1763468534.5406213
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "13:23:04",
+    "date": "2025-11-18",
+    "confidence": "0.61",
+    "timestamp": 1763468584.0555646
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "13:23:43",
+    "date": "2025-11-18",
+    "confidence": "0.60",
+    "timestamp": 1763468623.9242887
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "13:41:01",
+    "date": "2025-11-18",
+    "confidence": "0.61",
+    "timestamp": 1763469661.546873
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "13:41:32",
+    "date": "2025-11-18",
+    "confidence": "0.62",
+    "timestamp": 1763469692.4519553
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE (manuel)",
+    "heure": "13:42:01",
+    "date": "2025-11-18",
+    "confidence": "0.99",
+    "timestamp": 1763469721.8560236
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "13:42:02",
+    "date": "2025-11-18",
+    "confidence": "0.62",
+    "timestamp": 1763469722.7081242
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE (manuel)",
+    "heure": "13:42:32",
+    "date": "2025-11-18",
+    "confidence": "0.99",
+    "timestamp": 1763469752.485373
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "13:42:39",
+    "date": "2025-11-18",
+    "confidence": "0.61",
+    "timestamp": 1763469759.615869
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "13:43:09",
+    "date": "2025-11-18",
+    "confidence": "0.63",
+    "timestamp": 1763469789.8266225
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "13:43:40",
+    "date": "2025-11-18",
+    "confidence": "0.63",
+    "timestamp": 1763469820.0234475
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "13:44:10",
+    "date": "2025-11-18",
+    "confidence": "0.62",
+    "timestamp": 1763469850.2048993
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "14:26:35",
+    "date": "2025-11-18",
+    "confidence": "0.64",
+    "timestamp": 1763472395.9825838
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "15:14:23",
+    "date": "2025-11-18",
+    "confidence": "0.60",
+    "timestamp": 1763475263.5840342
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "15:55:35",
+    "date": "2025-11-18",
+    "confidence": "0.64",
+    "timestamp": 1763477735.907523
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "15:58:21",
+    "date": "2025-11-18",
+    "confidence": "0.63",
+    "timestamp": 1763477901.7156425
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "16:04:25",
+    "date": "2025-11-18",
+    "confidence": "0.63",
+    "timestamp": 1763478265.9830713
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "16:11:59",
+    "date": "2025-11-18",
+    "confidence": "0.62",
+    "timestamp": 1763478719.2727656
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "16:13:06",
+    "date": "2025-11-18",
+    "confidence": "0.65",
+    "timestamp": 1763478786.7786937
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "16:14:27",
+    "date": "2025-11-18",
+    "confidence": "0.64",
+    "timestamp": 1763478867.2346163
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "16:17:52",
+    "date": "2025-11-18",
+    "confidence": "0.64",
+    "timestamp": 1763479072.8528848
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "16:20:07",
+    "date": "2025-11-18",
+    "confidence": "0.64",
+    "timestamp": 1763479207.2211707
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "16:27:47",
+    "date": "2025-11-18",
+    "confidence": "0.63",
+    "timestamp": 1763479667.644301
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "16:28:17",
+    "date": "2025-11-18",
+    "confidence": "0.63",
+    "timestamp": 1763479697.84619
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "17:21:56",
+    "date": "2025-11-18",
+    "confidence": "0.60",
+    "timestamp": 1763482916.834795
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "17:22:40",
+    "date": "2025-11-18",
+    "confidence": "0.64",
+    "timestamp": 1763482960.461548
+  },
+  {
+    "agent": "ALLA NIANG",
+    "heure": "17:22:48",
+    "date": "2025-11-18",
+    "confidence": "0.61",
+    "timestamp": 1763482968.4677615
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "17:41:21",
+    "date": "2025-11-18",
+    "confidence": "0.61",
+    "timestamp": 1763484081.3650389
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "17:42:07",
+    "date": "2025-11-18",
+    "confidence": "0.61",
+    "timestamp": 1763484127.444561
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "18:03:45",
+    "date": "2025-11-18",
+    "confidence": "0.62",
+    "timestamp": 1763485425.9108512
+  },
+  {
+    "agent": "YOUSSOUPHA SY",
+    "heure": "18:03:51",
+    "date": "2025-11-18",
+    "confidence": "0.60",
+    "timestamp": 1763485431.6071248
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "18:04:19",
+    "date": "2025-11-18",
+    "confidence": "0.60",
+    "timestamp": 1763485459.6702042
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "18:05:41",
+    "date": "2025-11-18",
+    "confidence": "0.61",
+    "timestamp": 1763485541.5321062
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "18:06:11",
+    "date": "2025-11-18",
+    "confidence": "0.63",
+    "timestamp": 1763485571.8531523
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "18:06:58",
+    "date": "2025-11-18",
+    "confidence": "0.60",
+    "timestamp": 1763485618.0281997
+  },
+  {
+    "agent": "YOUSSOUPHA SY",
+    "heure": "18:07:25",
+    "date": "2025-11-18",
+    "confidence": "0.60",
+    "timestamp": 1763485645.9380975
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "18:07:28",
+    "date": "2025-11-18",
+    "confidence": "0.61",
+    "timestamp": 1763485648.6528583
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "18:07:59",
+    "date": "2025-11-18",
+    "confidence": "0.60",
+    "timestamp": 1763485679.7809474
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "18:10:40",
+    "date": "2025-11-18",
+    "confidence": "0.61",
+    "timestamp": 1763485840.040033
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "18:11:53",
+    "date": "2025-11-18",
+    "confidence": "0.60",
+    "timestamp": 1763485913.5924973
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "18:26:56",
+    "date": "2025-11-18",
+    "confidence": "0.63",
+    "timestamp": 1763486816.1095595
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "18:27:26",
+    "date": "2025-11-18",
+    "confidence": "0.62",
+    "timestamp": 1763486846.1135879
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "18:27:59",
+    "date": "2025-11-18",
+    "confidence": "0.66",
+    "timestamp": 1763486879.9759893
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "18:28:30",
+    "date": "2025-11-18",
+    "confidence": "0.61",
+    "timestamp": 1763486910.0907605
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "18:29:08",
+    "date": "2025-11-18",
+    "confidence": "0.65",
+    "timestamp": 1763486948.4048464
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "18:31:21",
+    "date": "2025-11-18",
+    "confidence": "0.64",
+    "timestamp": 1763487081.3908389
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "18:31:51",
+    "date": "2025-11-18",
+    "confidence": "0.64",
+    "timestamp": 1763487111.699809
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "18:32:40",
+    "date": "2025-11-18",
+    "confidence": "0.63",
+    "timestamp": 1763487160.9926498
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "19:00:16",
+    "date": "2025-11-18",
+    "confidence": "0.60",
+    "timestamp": 1763488816.8328128
+  },
+  {
+    "agent": "EL HADJI MALICK",
+    "heure": "19:00:40",
+    "date": "2025-11-18",
+    "confidence": "0.68",
+    "timestamp": 1763488840.181325
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "19:01:16",
+    "date": "2025-11-18",
+    "confidence": "0.60",
+    "timestamp": 1763488876.8843055
+  },
+  {
+    "agent": "AMINATA NIANG",
+    "heure": "19:10:59",
+    "date": "2025-11-18",
+    "confidence": "0.61",
+    "timestamp": 1763489459.4159322
+  },
+  {
+    "agent": "EL HADJI MALICK",
+    "heure": "19:12:35",
+    "date": "2025-11-18",
+    "confidence": "0.61",
+    "timestamp": 1763489555.1418254
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "19:13:14",
+    "date": "2025-11-18",
+    "confidence": "0.66",
+    "timestamp": 1763489594.4451635
+  },
+  {
+    "agent": "FALLOU DIOP",
+    "heure": "19:13:47",
+    "date": "2025-11-18",
+    "confidence": "0.61",
+    "timestamp": 1763489627.0388808
+  },
+  {
+    "agent": "ASSANE DIONE",
+    "heure": "19:13:48",
+    "date": "2025-11-18",
+    "confidence": "0.62",
+    "timestamp": 1763489628.887095
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "19:13:49",
+    "date": "2025-11-18",
+    "confidence": "0.63",
+    "timestamp": 1763489629.364898
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "19:33:35",
+    "date": "2025-11-18",
+    "confidence": "0.62",
+    "timestamp": 1763490815.2663827
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "19:34:05",
+    "date": "2025-11-18",
+    "confidence": "0.60",
+    "timestamp": 1763490845.6809862
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "19:34:59",
+    "date": "2025-11-18",
+    "confidence": "0.60",
+    "timestamp": 1763490899.7966783
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "19:56:55",
+    "date": "2025-11-18",
+    "confidence": "0.85",
+    "timestamp": 1763492215.817476
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "19:59:47",
+    "date": "2025-11-18",
+    "confidence": "0.85",
+    "timestamp": 1763492387.181149
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "09:34:00",
+    "date": "2025-11-19",
+    "confidence": "0.67",
+    "timestamp": 1763541240.1789157
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "09:34:30",
+    "date": "2025-11-19",
+    "confidence": "0.70",
+    "timestamp": 1763541270.3856
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "09:35:23",
+    "date": "2025-11-19",
+    "confidence": "0.62",
+    "timestamp": 1763541323.6980336
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "09:36:16",
+    "date": "2025-11-19",
+    "confidence": "0.74",
+    "timestamp": 1763541376.4306586
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "09:38:14",
+    "date": "2025-11-19",
+    "confidence": "0.71",
+    "timestamp": 1763541494.1219385
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "09:38:50",
+    "date": "2025-11-19",
+    "confidence": "0.62",
+    "timestamp": 1763541530.8471963
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "09:39:20",
+    "date": "2025-11-19",
+    "confidence": "0.64",
+    "timestamp": 1763541560.9717102
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "09:41:22",
+    "date": "2025-11-19",
+    "confidence": "0.64",
+    "timestamp": 1763541682.9693635
+  },
+  {
+    "agent": "ALPHONSE MARIE MBENGUE",
+    "heure": "09:43:03",
+    "date": "2025-11-19",
+    "confidence": "0.81",
+    "timestamp": 1763541783.0226789
+  }
+]
